@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Gesi15
 - 👀 I’m interested in programing language
-- 🌱 I’m currently learning Python JavaScript
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on 
